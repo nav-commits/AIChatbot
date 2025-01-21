@@ -42,4 +42,4 @@ You can now send messages to the chatbot and receive responses from **GPT-3.5-tu
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd frontend
+   cd aichatbotproject
